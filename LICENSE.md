@@ -1,4 +1,4 @@
-# 
+# Inteligente nanochat extensões. Com autonomia de agentes e integração de API — otimizado para máximo desempenho e eficiência.
 
 
 
